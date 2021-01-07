@@ -3,11 +3,11 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <h1 align="center">Hi 👋, I'm Faruk Özel</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farukozelll&label=Profile%20views&color=0e75b6&style=flat" alt="farukozelll" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farukozelll" alt="farukozelll" /></a> </p>
-
+-->
 <p align="left"> <a href="https://twitter.com/ozelfarukcom" target="blank"><img src="https://img.shields.io/twitter/follow/ozelfarukcom?logo=twitter&style=for-the-badge" alt="ozelfarukcom" /></a> </p>
 
 - 🔭 I’m currently working on [ozelfarukcom](https://www.ozelfaruk.com)
@@ -43,13 +43,13 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/FarukOzel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="FarukOzel" /></a></p><br><br>
-
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farukozelll&show_icons=true&locale=en&layout=compact" alt="farukozelll" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farukozelll&show_icons=true&locale=en" alt="farukozelll" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farukozelll&" alt="farukozelll" /></p>
-<!--
+
 ![Hey there, I'm faruk. I'm a computer developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 **farukozelll/farukozelll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
