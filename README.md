@@ -5,6 +5,14 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <h1 align="center">Hi 👋, I'm Faruk Özel</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+
+[<img align="left" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="itsmetherogue | Twitter" width="22px" src="./twitter.svg" />][twitter]
+[<img align="left" alt="tassia.accioly | Gmail" width="22px" src="./gmail.svg" />][gmail]
+[<img align="left" alt="tassiaaccioly | Medium" width="22px" src="./medium.svg" />][medium]
+[<img align="left" alt="tassiaaccioly | Dev.to" width="22px" src="./dev-dot-to.svg" />][devto]
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farukozelll&label=Profile%20views&color=0e75b6&style=flat" alt="farukozelll" /> </p>
 
