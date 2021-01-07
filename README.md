@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![Visitor Count](https://profile-counter.glitch.me/{farukozelll}/count.svg)
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+[![GitHub](https://github-readme-stats-farukozelll.vercel.app/api?username=farukozelll&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/farukozelll)
 <!--
 ![Hey there, I'm faruk. I'm a computer developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 **farukozelll/farukozelll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
