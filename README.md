@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Visitor Count](https://profile-counter.glitch.me/{farukozelll}/count.svg)
-
+![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 <!--
 **farukozelll/farukozelll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
