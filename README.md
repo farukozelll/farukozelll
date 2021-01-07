@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{farukozelll}/count.svg)
 
 <!--
 **farukozelll/farukozelll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
