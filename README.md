@@ -12,7 +12,11 @@
 [<img align="left" alt="itsmetherogue | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="tassia.accioly | Gmail" width="22px" src="./gmail.svg" />][gmail]
 [<img align="left" alt="tassiaaccioly | Medium" width="22px" src="./medium.svg" />][medium]
-[<img align="left" alt="tassiaaccioly | Dev.to" width="22px" src="./dev-dot-to.svg" />][devto]
+
+[linkedin]: https://www.linkedin.com/in/faruk-ö-99a865129/
+[twitter]: https://www.twitter.com/ozelfarukcom/
+[gmail]: mailto:faruk.ozelll@outlook.com
+[medium]: https://ozelfarukcom.medium.com/
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farukozelll&label=Profile%20views&color=0e75b6&style=flat" alt="farukozelll" /> </p>
 
