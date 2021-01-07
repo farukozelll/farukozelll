@@ -6,7 +6,10 @@
 <h1 align="center">Hi 👋, I'm Faruk Özel</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+    <div id="logo-container" class="html-embed w-embed w-script">
+                    <script src="hareketlipoligontilki.js"></script>
 
+                </div>
 
 [<img align="left" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="itsmetherogue | Twitter" width="22px" src="./twitter.svg" />][twitter]
