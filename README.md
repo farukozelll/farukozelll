@@ -57,6 +57,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/FarukOzel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="FarukOzel" /></a></p><br><br>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farukozelll&show_icons=true&locale=en&layout=compact" alt="farukozelll" /></p>
 
