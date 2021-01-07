@@ -1,16 +1,12 @@
 ### Hi there 👋
 ![Visitor Count](https://profile-counter.glitch.me/{farukozelll}/count.svg)
 ![unique-visit-count](https://profile-counter.glitch.me/{farukozelll}/count.svg)
-![Visitor](hareketlipoligontilki.js)
+
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <h1 align="center">Hi 👋, I'm Faruk Özel</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-    <div id="logo-container" class="html-embed w-embed w-script">
-                    <script src="hareketlipoligontilki.js"></script>
-
-                </div>
 
 [<img align="left" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="itsmetherogue | Twitter" width="22px" src="./twitter.svg" />][twitter]
