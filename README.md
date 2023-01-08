@@ -14,7 +14,7 @@
 [linkedin]: https://www.linkedin.com/in/faruk-ö-99a865129/
 [twitter]: https://www.twitter.com/ozelfarukcom/
 [gmail]: mailto:faruk.ozelll@outlook.com
-[medium]: [https://ozelfarukcom.medium.com](https://medium.com/@faruk.ozelll)/
+[medium]: https://medium.com/@faruk.ozelll/
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farukozelll&label=Profile%20views&color=0e75b6&style=flat" alt="farukozelll" /> </p>
 
