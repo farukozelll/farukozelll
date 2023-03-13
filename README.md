@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently working on [ozelfarukcom](https://www.ozelfaruk.com)
 
-- 🌱 I’m currently learning **Javascript, Php, ML**
+- 🌱 I’m currently learning **Javascript, Php, Java, C#, ML**
 
 - 👯 I’m looking to collaborate on [3d4gen](https://www.3d4gen.com)
 
